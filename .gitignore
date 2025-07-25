@@ -1,0 +1,32 @@
+# Archivos y carpetas que Unity puede regenerar automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Unity
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+
+# Collaborate
+.collabignore
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Paquetes descargados
+Packages/manifest.json
+Packages/packages-lock.json
